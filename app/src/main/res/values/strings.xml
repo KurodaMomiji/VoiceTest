@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Test</string>
+    <string name="noText">No Text Found</string>
+    <string name="micAct">Listening</string>
+</resources>
